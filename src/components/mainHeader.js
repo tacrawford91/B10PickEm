@@ -15,6 +15,5 @@ const MainHeader = (props) => {
     </nav> 
     )
 };
-
   
 export default MainHeader;
