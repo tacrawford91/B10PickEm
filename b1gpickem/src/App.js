@@ -69,7 +69,7 @@ class App extends Component {
       <GameBoard>
       {this.state.schools.map(school => 
           {return <Card  checkSchool = {this.checkSchool} name={school.name} image={school.image} id={school.id} key={school.id}/>}
-          )};
+          )}
       </GameBoard>
       </div>
     );
