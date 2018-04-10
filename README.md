@@ -1,4 +1,3 @@
-# B1GPickEm
 # B1GPickEm -React.js application 
 ###### <center> B1GPickEm is a REact.js application. The application allows users to play a memory game, leveraging React.js to change state and render the screen as required. Technical skills: HTML5, CSS3, Bootstrap4, JavaScript, React.js, JSX, Babel</center>
 <br>
